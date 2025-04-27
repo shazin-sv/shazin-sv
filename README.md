@@ -3,17 +3,17 @@
 </p>
 
 <h1 align="center">
-  Hi there, I'm <i>YourName</i> 👋
+  Hi there, I'm <i>Shazin Sv</i> 👋
 </h1>
 
 <p align="center">
-  As an <b>Indie Hacker</b> chillin' in <b>Your City, Country</b> <br />
-  Hyped about open source projects & Dedicated to being a craftsman who creates <b>sh*t beauty</b> 🎨
+  As an <b>Man 😁</b> chillin' in (now)<b>Jeddah ,Saudi Arabia</b> <br />
+  Hyped about AI & Dedicated to being a craftsman who creates <b>sh*t beauty</b> 🎨
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Design%20Engineer-red?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourgithubusername?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shazin-sv?label=Followers&style=for-the-badge" />
 </p>
 
 <p align="center">

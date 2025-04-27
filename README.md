@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  Hi there, I'm <i>Shazin Sv</i> 👋
+  Hi there, I'm <i>Shazin Sv</i> 👀
 </h1>
 
 <p align="center">
-  As an <b>Man 😁</b> chillin' in (now)<b>Jeddah ,Saudi Arabia</b> <br />
+  As an <b>Man 🕊️</b> chillin' in (now) <b>Jeddah ,Saudi Arabia</b> <br />
   Hyped about AI & Dedicated to being a craftsman who creates <b>sh*t beauty</b> 🎨
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/WeChat-40073838-07C160?style=flat-square&logo=wechat" />
-  <img src="https://img.shields.io/badge/GitHub-yourgithubusername-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-shazin-sv-181717?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Discord-yourdiscordusername-7289DA?style=flat-square&logo=discord" />
   <img src="https://img.shields.io/badge/Telegram-yourtelegramusername-2CA5E0?style=flat-square&logo=telegram" />
 </p>
